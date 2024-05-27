@@ -1,2 +1,2 @@
-# RockPaperScissorsbymy
+# RockPaperScissorsbyme
 Simple game programming
